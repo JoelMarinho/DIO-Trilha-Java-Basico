@@ -27,7 +27,7 @@ public class SmartTV {
     }
 
     public void diminuirVolume() {
-        // volume -1;
+        // volume = -1;
         volume--;
         System.out.println("Diminuir o volume para: " + volume);
 
